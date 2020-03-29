@@ -35,6 +35,10 @@ div .imgs {
     padding-top: 1em;
     padding-bottom: 1em;
 }
+.myndStorm {
+    max-width: 100%;
+    height: auto;
+}
 .mybutton {
     background-color: #f77;
     font-size: 0.75em;
@@ -86,4 +90,4 @@ div .imgs {
     padding-top: 1em;
 } 
 //ná í stílsíðuna
-@import "layout","iconfonts","socialButts";
+@import "layout","iconfonts","socialButts","advert";
