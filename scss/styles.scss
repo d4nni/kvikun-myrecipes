@@ -21,6 +21,7 @@ p {
 .image {
     max-width: 100%;
     height: auto;
+    padding: 2em;
 }
 .imgs {
     max-width: 100%;
@@ -89,5 +90,9 @@ div .imgs {
 .topnav {
     padding-top: 1em;
 } 
+.b-icon {
+    background: url("../image/hot_plain_bread.svg") bottom right no-repeat;
+    padding-right: 20em;
+}
 //ná í stílsíðuna
 @import "layout","iconfonts","socialButts","advert";
